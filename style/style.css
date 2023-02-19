@@ -36,9 +36,8 @@ html{
     padding: 2rem 9%;
     display: flex;
     align-items: center;
-    
-    background-color: rgba(97, 97, 97, 0.5);
-    background: transparent 2px #6b6b6b;
+    /* background-color: rgba(97, 97, 97, 0.5); */
+    /* background: transparent 2px #6b6b6b; */
 
 }
 .logo{
@@ -130,6 +129,8 @@ form{
     left: 0;
     z-index: 1000;
     height: 8rem;
+    background-color: rgba(97, 97, 97, 0.5);
+    background: transparent 2px #6b6b6b;
 }
 input{
     width: 100%;
